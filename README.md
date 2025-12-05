@@ -4,6 +4,11 @@
 
 MiniMind est une application pédagogique interactive permettant aux jeunes de **découvrir et expérimenter l'intelligence artificielle** de manière simple et ludique. Ce projet combine un agent IA conversationnel avec des outils d'analyse de texte et de visualisation de données.
 
+**Démo vidéo de MiniMind**
+
+https://github.com/user-attachments/assets/162ca3bc-0718-4845-89a9-2a9a8306974c
+
+
 ## 🎯 Objectif
 
 Permettre aux collégiens, lycéens et étudiants débutants de comprendre le fonctionnement de l'IA à travers :
