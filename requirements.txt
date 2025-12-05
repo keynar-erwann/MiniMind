@@ -1,0 +1,12 @@
+strands-agents
+python-dotenv
+strands-agents[gemini]
+ag-ui-strands
+fastapi 
+uvicorn
+matplotlib
+pandas
+numpy
+textblob 
+scikit-learn
+google-genai
